@@ -1,7 +1,7 @@
 # Hello 👋
 
 
-- I’m Fahad Mubiru, a software engineer with domanin knowledge in the civil engineering industry.
+- I’m Fahad Mubiru, a software engineer.
 - I'm passionate about utilizing code to solve problems. 
 - When not coding I Swim 🏊🏾‍♀️|| Fly my DJI Phantom Drone 
 
